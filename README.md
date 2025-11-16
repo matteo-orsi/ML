@@ -13,25 +13,25 @@ For more information, visit the course [repository](https://github.com/nickplas/
 
 First semester (Mod. A):
 
-* [Lab 0](notebooks/Lab-0.IntroColab.ipynb): Introduction to Google Colab 
+* [Lab 0](notebooks/notebook-colab.ipynb): Introduction to Google Colab 
 
-* [Lab 0.1](notebooks/Lab-0.1.IntroPandas.ipynb): Introduction to Pandas
+* [Lab 0.1](notebooks/notebook-00.ipynb): Introduction to Pandas
 
-* [Lab 1](notebooks/Lab-1.Data_generation.ipynb): Data generation
+* [Lab 1](notebooks/notebook-01.ipynb): Data generation
 
-* [Lab 2](notebooks/Lab-2.Bias_Variance.ipynb): Bias-variance trade off ([Solution](solutions/sol-02.ipynb))
+* [Lab 2](notebooks/notebook-02.ipynb): Bias-variance trade off
 
-* [Lab 3](notebooks/Lab-3.Regression.ipynb): Linear and Logistic regression ([Solution](solutions/sol-03.ipynb))
+* [Lab 3](notebooks/notebook-03.ipynb): Linear and Logistic regression
 
-* [Lab 4](notebooks/Lab-4.Regularizations.ipynb): Regularized Linear Regression and K-Fold Cross Validation ([Solution](solutions/sol-04.ipynb))
+* [Lab 4](notebooks/notebook-04.ipynb): Regularized Linear Regression and K-Fold Cross Validation
 
-* [Lab 5](notebooks/Lab-5.UnsupervisedLearning.ipynb): Unsupervised Learning ([Solution](solutions/sol-05.ipynb))
+* [Lab 5](notebooks/notebook-05.ipynb): Unsupervised Learning
 
-* [Lab 6](notebooks/Lab-6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes
+* [Lab 6](notebooks/notebook-06.ipynb): Decision Tree and Naive Bayes
 
 Second semester (Mod. B):
 
 
 ## Challenges
 
-* [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
+* [Challenge 0](challenges/challenge-00/challenge-00.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
