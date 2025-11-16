@@ -5,7 +5,7 @@
 
 **Professors**: Fabio Anselmi, Alex Rodriguez.
 
-**Tutors**: Milton Nicolas Plasencia Palacios ([email](miltonnicolas.plasenciapalacios@phd.units.it)), Francesco Tomba ([email](francesco.tomba@phd.units.it)).
+**Tutors**: Milton Nicolas Plasencia Palacios ([email](mailto:miltonnicolas.plasenciapalacios@phd.units.it)), Francesco Tomba ([email](mailto:francesco.tomba@phd.units.it)).
 
 For more information, visit the course [repository](https://github.com/nickplas/Intro_to_ML_25-26).
 
