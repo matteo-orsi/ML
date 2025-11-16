@@ -1,6 +1,7 @@
 # Introduction to Machine Learning - A.A. 2025/2026
 _Introduction to Machine Learning - Course for the Artificial Intelligence and Data Analytics Bachelor Degree - University of Trieste_
 
+---
 
 **Professors**: Fabio Anselmi, Alex Rodriguez.
 
@@ -33,4 +34,4 @@ Second semester (Mod. B):
 
 ## Challenges
 
-* [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment# ML
+* [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
