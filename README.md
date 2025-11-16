@@ -1,17 +1,12 @@
 # Introduction to Machine Learning - A.A. 2025/2026
-Introduction to Machine Learning - Course for the Artificial Intelligence and Data Analytics Bachelor Degree - University of Trieste
+_Introduction to Machine Learning - Course for the Artificial Intelligence and Data Analytics Bachelor Degree - University of Trieste_
 
- - Fabio Anselmi 
+**Professors**: Fabio Anselmi, Alex Rodriguez
+**Tutors**: Milton Nicolas Plasencia Palacios ([email](miltonnicolas.plasenciapalacios@phd.units.it)), Francesco Tomba ([email](francesco.tomba@phd.units.it)).
 
- - Alex Rodriguez 
+For more information, visit the course [repository](https://github.com/nickplas/Intro_to_ML_25-26).
 
- - Milton Nicolas Plasencia Palacios (miltonnicolas.plasenciapalacios@phd.units.it)
-
- - Francesco Tomba (francesco.tomba@phd.units.it)
-
-For further information, visit the course ([main repository](https://github.com/nickplas/Intro_to_ML_25-26).
-
-Notebooks: 
+## Notebooks 
 
 First semester (Mod. A):
 
@@ -34,6 +29,6 @@ First semester (Mod. A):
 Second semester (Mod. B):
 
 
-Challenges:
+## Challenges
 
 * [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment# ML
