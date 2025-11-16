@@ -1,7 +1,5 @@
 # Introduction to Machine Learning - A.A. 2025/2026
-*University of Trieste*
-*Artificial Intelligence and Data Analytics Bachelor Degree*
-*Introduction to Machine Learning*
+*University of Trieste - Artificial Intelligence and Data Analytics Bachelor Degree - Introduction to Machine Learning*
 
 ---
 
